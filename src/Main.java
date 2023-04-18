@@ -37,6 +37,7 @@ public class Main {
         System.out.println("First Factorial: " + firstFactorial);
         System.out.println("Abelo: " + Abelo.FirstReverse("Motel"));
         System.out.println("LC:         :" + LetterChanges.LetterChanges("fun times!"));
+        System.out.println("SimplySymbols:         :" + SimpleSymbols.simpleSymbols("2+a+a+"));
 
     }
 }
