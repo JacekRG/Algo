@@ -22,22 +22,34 @@ public class Main {
         int meineFinal = thirdTask_meine2.stringTimeChallenge("1:23am-1:08am");
         int firstFactorial = rer.firstFactorial(9);
 
-        System.out.println("task2:        " + string);
-        System.out.println("-------------------------");
-        System.out.println("task2 simply: " + string2);
-        System.out.println("**************************");
-        System.out.println("Task 1:        " + arrayChallenge);
-        System.out.println("-------------------------");
-        System.out.println("Task 1 simply: " + arrayChallenge1);
-        System.out.println("**************************");
-        System.out.println("Task 3:          " + stringTimeChallenge);
-        System.out.println("Task 3 MEINE:    " + meineTimeChallenge);
-        System.out.println("Task 3 Final:    " + meineFinal);
-        System.out.println("**************************");
-        System.out.println("First Factorial: " + firstFactorial);
-        System.out.println("Abelo: " + Abelo.FirstReverse("Motel"));
-        System.out.println("LC:         :" + LetterChanges.LetterChanges("fun times!"));
-        System.out.println("SimplySymbols:         :" + SimpleSymbols.simpleSymbols("2+a+a+"));
-
+//        System.out.println("task2:        " + string);
+//        System.out.println("-------------------------");
+//        System.out.println("task2 simply: " + string2);
+//        System.out.println("**************************");
+//        System.out.println("Task 1:        " + arrayChallenge);
+//        System.out.println("-------------------------");
+//        System.out.println("Task 1 simply: " + arrayChallenge1);
+//        System.out.println("**************************");
+//        System.out.println("Task 3:          " + stringTimeChallenge);
+//        System.out.println("Task 3 MEINE:    " + meineTimeChallenge);
+//        System.out.println("Task 3 Final:    " + meineFinal);
+//        System.out.println("**************************");
+//        System.out.println("First Factorial: " + firstFactorial);
+//        System.out.println("Abelo: " + Abelo.FirstReverse("Motel"));
+//        System.out.println("LC:         :" + LetterChanges.LetterChanges("fun times!"));
+//        System.out.println("SimplySymbols:         :" + SimpleSymbols.simpleSymbols("2+a+a+"));
+//        System.out.println("CheckNums              : " + CheckNums.CheckNums(4,5));
+//        System.out.println("SearchningTokenChallenge  : " + SearchingTokenChallenge.SearchingChallenge("No words"));
+//        System.out.println("ABCheck:                  : " + ABCheck.ABCheck("aloobe"));
+//        System.out.println("Palindrome                  : " + Palindrome.Palindrome("do geese see god"));
+//        System.out.println("Arith geo : " + ArithGeo.ArithGeo(new int[]{1,2,3,4}));
+//        System.out.println("Array Addition One: " + ArrayAdditionFirst.ArrayAdditionI(new int[] {3,4,6}));
+//        System.out.println("Letter Count One          : "  + LetterCountOne.LetterCountI("the dog and cat"));
+//        System.out.println("SecondGreatLowTreeSet  : " + SecondGreatLowTreeSet.SecondGreatLow(new int[] {2,2,2,5,5,5,6}));
+//        System.out.println("SecondGreatLow    : " + SecondGreatLow.SecondGreatLow(new int[] {2,2,2,5,5,5,6}));
+//        System.out.println("DivisionStringifield :     " + DivisionStringified.DivisionStringified(1 , 10));
+//        System.out.println("Counting minutes :            " + CountingMinutes.CountingMinutesI("1:00pm-11:00am"));
+//        System.out.println("MeanMode:           " + MeanMode.MeanMode(new int[] {4, 4, 4, 6, 2}));
+        System.out.println("DashInsert:   " +  DashInsert.DashInsert("118981651"));
     }
 }
