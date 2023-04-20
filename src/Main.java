@@ -50,6 +50,8 @@ public class Main {
 //        System.out.println("DivisionStringifield :     " + DivisionStringified.DivisionStringified(1 , 10));
 //        System.out.println("Counting minutes :            " + CountingMinutes.CountingMinutesI("1:00pm-11:00am"));
 //        System.out.println("MeanMode:           " + MeanMode.MeanMode(new int[] {4, 4, 4, 6, 2}));
-        System.out.println("DashInsert:   " +  DashInsert.DashInsert("118981651"));
+//        System.out.println("DashInsert:   " +  DashInsert.DashInsert("118981651"));
+//        System.out.println("NumberAddition:          " + NumberAddition.NumberAddition("75Number9"));
+        System.out.println("AlphabetRunEncryptionSecond :" + AlphabetRunEncryptionSecond.AlphabetRunEncryption("bcdefghijklmnopqrstN"));
     }
 }
