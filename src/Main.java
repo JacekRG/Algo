@@ -62,6 +62,7 @@ public class Main {
 //        System.out.println("Additive Persistence 2567: " + AdditivePersistence.AdditivePersistence(2567 ));
 //        System.out.println("Additive Persistence 199: " + AdditivePersistence.AdditivePersistence(199 ));
 //        System.out.println("MultiplicativePersistence: " + MultiplicativePersistence.MultiplicativePersistence(25));
-        System.out.println("OffLineMinimum: " + OffLineMinimum.OffLineMinimum(new String[] {"5","4","6","E","1","7","E","E","3","2"}));
+//        System.out.println("OffLineMinimum: " + OffLineMinimum.OffLineMinimum(new String[] {"5","4","6","E","1","7","E","E","3","2"}));
+        System.out.println("Superincreasing: " + Superincreasing.Superincreasing(new int[] {1, 3, 6, 13, 54}));
     }
 }
