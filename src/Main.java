@@ -65,6 +65,6 @@ public class Main {
 //        System.out.println("OffLineMinimum: " + OffLineMinimum.OffLineMinimum(new String[] {"5","4","6","E","1","7","E","E","3","2"}));
 //        System.out.println("Superincreasing: " + Superincreasing.Superincreasing(new int[] {1, 3, 6, 13, 54}));
 //        System.out.println("RectangleArea:  " + RectangleArea.RectangleArea( new String[] {"(0 0)", "(3 0)", "(0 2)", "(3 2)"}));
-//        System.out.println("TestTaker : " + TestTaker.newList(new String[]{"Denver Wagner 6 7 8", "Ernie Gibbs 11 2"}));
+        System.out.println("TestTaker : " + TestTaker.newList(new String[]{"Denver Wagner 6 7 8", "Ernie Gibbs 11 2"}));
     }
 }
