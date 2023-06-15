@@ -55,11 +55,11 @@ public class Main {
 //        System.out.println("AlphabetRunEncryptionSecond :" + AlphabetRunEncryptionSecond.AlphabetRunEncryption("bcdefghijklmnopqrstN"));
 //        System.out.println("Fibo: " + Fibo.fibo(10));
 //        System.out.println("FiboInt: "    + FiboInt.fiboint(10));
-//        System.out.println("ThirdGreatest  : " +  ThirdGreatest.ThirdGreatest(new String[] {"bt","ct","mtyyyy"}));
-//        System.out.println("Additive Persistence 4: " + AdditivePersistence.AdditivePersistence(4 ));
-//        System.out.println("Additive Persistence 19: " + AdditivePersistence.AdditivePersistence(19 ));
-//        System.out.println("Additive Persistence 2718: " + AdditivePersistence.AdditivePersistence(2718 ));
-//        System.out.println("Additive Persistence 2567: " + AdditivePersistence.AdditivePersistence(2567 ));
+        System.out.println("ThirdGreatest  : " +  ThirdGreatest.ThirdGreatest(new String[] {"bt","ct","mtyyyy"}));
+        System.out.println("Additive Persistence 4: " + AdditivePersistence.AdditivePersistence(4 ));
+        System.out.println("Additive Persistence 19: " + AdditivePersistence.AdditivePersistence(19 ));
+        System.out.println("Additive Persistence 2718: " + AdditivePersistence.AdditivePersistence(2718 ));
+        System.out.println("Additive Persistence 2567: " + AdditivePersistence.AdditivePersistence(2567 ));
         System.out.println("Additive Persistence 199: " + AdditivePersistence.AdditivePersistence(199 ));
         System.out.println("MultiplicativePersistence: " + MultiplicativePersistence.MultiplicativePersistence(25));
         System.out.println("OffLineMinimum: " + OffLineMinimum.OffLineMinimum(new String[] {"5","4","6","E","1","7","E","E","3","2"}));
